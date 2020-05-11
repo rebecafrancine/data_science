@@ -4,6 +4,7 @@
 # Editors
 .vscode/
 .idea/
+.ipynb_checkpoints
 
 # Vagrant
 .vagrant/
