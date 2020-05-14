@@ -5,8 +5,9 @@ Este repositório consiste em salvar e disponibilizar meus projetos de Data Scie
 ### Legenda
 |Sigla|Tipo de Análise  |
 |--|--|
-|mc|Machine Learning  |
 |ae|Análise Exploratória  |
+|mc|Machine Learning  |
+|vd|Visualização de Dados  |
 
 
 ## mc_score_imdb
