@@ -17,7 +17,7 @@ Esse projeto faz parte do Workshop [**Primeiros Passos com Machine Learning**](h
 Aqui irei treinar um modelo de **Machine Learning** baseado em um algoritmo de aprendizado supervisionado chamado **regressão**. Depois de treinado, o modelo vai ser capaz de inferir a nota de determinado filme no ranking do IMDB.
 **Base de Dados:** https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-## ae_bolsa_valores
+## vd_bolsa_valores
 Esse projeto faz parte da Semana de Data Science, disponibilizado *gratuitamente* pelo [**Minerando Dados**](https://minerandodados.com.br)**.**    
 Irei visualizar dados da bolsa de valores, gerar gráficos de dados financeiros e plotar médias nos dados para visualizar os cruzamentos das médias.
 
