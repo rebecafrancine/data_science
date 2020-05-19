@@ -21,6 +21,6 @@ Aqui irei treinar um modelo de **Machine Learning** baseado em um algoritmo de a
 Esse projeto faz parte da Semana de Data Science, disponibilizado *gratuitamente* pelo [**Minerando Dados**](https://minerandodados.com.br)**.**    
 Irei visualizar dados da bolsa de valores, gerar gráficos de dados financeiros e plotar médias nos dados para visualizar os cruzamentos das médias.
 
-## ae_dados_imobiliarios
+## mc_dados_imobiliarios
 Esse projeto faz parte da Semana de Data Science, disponibilizado *gratuitamente* pelo [**Minerando Dados**](https://minerandodados.com.br)**.**    
-Irei visualizar dados do DataFrame boston (sklearn.datasets) e conhecer melhor as variáveis nele contidas.
+Irei visualizar dados do DataFrame boston (sklearn.datasets), conhecer melhor as variáveis nele contidas e aplicar um modelo de regressão linear
